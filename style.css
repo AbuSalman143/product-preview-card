@@ -99,6 +99,10 @@ body{
     width: 10px;
 }
 
+.attribution{
+    margin-top:10px ;
+}
+
 @media (max-width:1200px) {
     .container{
         margin-top: 2%;
@@ -200,6 +204,9 @@ body{
     padding: 14px 112px;
     border-radius: 10px;
 }
+.attribution{
+    margin-top: 11px;
+}
   }
   @media (max-width: 480px) {
     .container{
@@ -248,5 +255,9 @@ body{
     padding: 14px 112px;
     border-radius: 10px;
 }
+.attribution{
+    margin-top: 11px;
+}
+
   }
 
